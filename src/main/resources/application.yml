@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      database: esgroup_example_db
